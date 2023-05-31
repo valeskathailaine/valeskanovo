@@ -9,14 +9,14 @@
 }
 .cabeçalho{
     background-color: var(--branco);
-    disply:flex;
+    display:flex;
     justify-content: space-between;
-    align-itms: center;
+    align-items: center;
 }
 .container{
     display: flex;
     align-items: center;
 }
 .container_imagem{
-    padding: lem;
+    padding: 1em;
 }
